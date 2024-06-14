@@ -1,5 +1,5 @@
-name = "hammal"
-account_id = "your account_id"
+name = "docker"
+account_id = "b7933b7daf3bfa16780809cfeced63d1"
 main = "src/index.ts"
 workers_dev = true
 compatibility_date = "2024-06-08"
